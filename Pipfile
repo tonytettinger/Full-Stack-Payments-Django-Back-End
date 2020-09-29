@@ -11,6 +11,7 @@ djangorestframework = "*"
 django-heroku = "*"
 gunicorn = "*"
 paypal-checkout-serversdk = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.8"
