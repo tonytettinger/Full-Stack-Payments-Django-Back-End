@@ -44,7 +44,7 @@ INSTALLED_APPS = [
 	'rest_framework',
     'paypalcheckoutsdk',
 	#Local
-	'payments',
+	'payment',
 ]
 
 MIDDLEWARE = [
