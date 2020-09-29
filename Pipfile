@@ -10,6 +10,7 @@ django = "*"
 djangorestframework = "*"
 django-heroku = "*"
 gunicorn = "*"
+paypal-checkout-serversdk = "*"
 
 [requires]
 python_version = "3.8"
